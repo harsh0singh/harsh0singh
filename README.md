@@ -22,7 +22,10 @@ How to reach me? I've added my LinkedIn.
 
 Random Facts:
 • I love cats.
+
 • I like black coffee (more of an addict).
+
 • One piece.
+
 • Hobbies: anime, building things, traveling.
     
