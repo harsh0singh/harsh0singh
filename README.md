@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Harsh, a Backend Developer based in India.
+I build whatever I can imagine.
+If an idea pops into my head, I'll build it.
+My main tech tool is Django, and I am currently learning more about GitHub and API.
+How to reach me? I've added my LinkedIn.
+
+Random Facts:  
+  • I love cats.
+  • I like black coffee (more of an addict).
+  • One piece.
+  • Hobbies: anime, building things, traveling.
